@@ -17,7 +17,7 @@ Google Fonts (Poppins)
 Font Awesome Icons
 
 
-**Project Features******
+**Project Features**
 
 Clean and structured resume layout
 
@@ -32,7 +32,7 @@ Contact information with icons
 Responsive-friendly structure (basic)
 
 
-**Sources & References**
+##**Sources & References**
 
 The following resources were used for learning, reference, and inspiration:
 
@@ -45,3 +45,10 @@ Google Fonts – https://fonts.google.com
 Font Awesome – https://fontawesome.com
 
 ReDI School Munich – HTML & CSS learning materials
+
+
+**Author**
+
+Angel Osayimwense Igbuwe
+
+Coding Student | Aspiring Front-End Developer
