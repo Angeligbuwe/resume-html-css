@@ -4,7 +4,7 @@ This is my first personal resume website built using HTML and CSS.
 The project was created as part of my learning journey at ReDI School Munich to practice front-end development fundamentals.
 
 The website presents my profile, skills, experience, and contact information in a simple and structured layout.
-
+https://angeligbuwe.github.io/resume-html-css/
 
 ## Technologies Used
 
